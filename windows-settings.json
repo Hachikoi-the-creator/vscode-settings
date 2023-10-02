@@ -1,0 +1,56 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.iconTheme": "vscode-icons",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on",
+    "files.autoSave": "onWindowChange",
+    "prettier.tabWidth": 4,
+    "telemetry.telemetryLevel": "off",
+    "code-runner.enableAppInsights": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "reactSnippets.settings.importReactOnTop": false,
+    "workbench.startupEditor": "none",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.explorerKind": "external",
+    "javascript.format.semicolons": "insert",
+    "typescript.format.semicolons": "insert",
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vscode-pets.petColor": "lightbrown",
+    "vscode-pets.petSize": "small",
+    "vscode-pets.theme": "beach",
+    "vscode-pets.throwBallWithMouse": true,
+    "terminal.integrated.env.windows": {},
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "console-ninja.featureSet": "Pro",
+    "files.associations": {
+        ".env.mjs": "javascript"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Monokai",
+    "liveServer.settings.donotShowInfoMsg": true
+}
