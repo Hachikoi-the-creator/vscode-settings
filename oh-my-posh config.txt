@@ -1,0 +1,6 @@
+how to modify theme
+$ oh-my-posh init pwsh --config 'C:\Users\vip77\AppData\Local\Programs\oh-my-posh\themes\jandedobbeleer.omp.json' | Invoke-Expression
+
+how to add another font to the system
+$ oh-my-posh font install
+
