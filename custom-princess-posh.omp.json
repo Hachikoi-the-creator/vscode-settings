@@ -77,8 +77,21 @@
         
       ],
       "type": "prompt"
+    },
+    {
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "foreground": "#ffe14d",
+          "style": "plain",
+          "template": "\u279c ",
+          "type": "text"
+        }
+      ],
+      "type": "prompt"
     }
   ],
   "final_space": true,
-  "version": 3.1
+  "version": 2
 }
