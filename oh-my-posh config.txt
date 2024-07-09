@@ -4,3 +4,8 @@ $ oh-my-posh init pwsh --config 'C:\Users\vip77\AppData\Local\Programs\oh-my-pos
 how to add another font to the system
 $ oh-my-posh font install
 
+- Add icons to ls
+https://www.hanselman.com/blog/my-ultimate-powershell-prompt-with-oh-my-posh-and-the-windows-terminal
+
+- Predictive commands
+https://www.hanselman.com/blog/adding-predictive-intellisense-to-my-windows-terminal-powershell-prompt-with-psreadline
